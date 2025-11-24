@@ -1,7 +1,7 @@
 # Árvore de Decisão Mock - Padrões de Projeto
 
 Este projeto modela uma **árvore de decisão simplificada** usando **padrões de projeto**, sem implementar o algoritmo real de aprendizado.  
-Todo o comportamento é **mockado** por meio de `print`s, conforme as restrições do trabalho.
+Todo o comportamento é **mockado** por meio de prints, conforme as restrições do trabalho.
 
 O foco é mostrar, de forma clara, o uso dos seguintes padrões:
 
@@ -14,12 +14,15 @@ O foco é mostrar, de forma clara, o uso dos seguintes padrões:
 
 ## Estrutura do Projeto
 
-`
-.
-├── tree_design.py                  # Implementação dos padrões de projeto e da estrutura da árvore
-├── tree_demo.py                    # Script de demonstração (monta a árvore e executa operações)
-├── README.md                       # Arquivo com as descrições e instruções do projeto
-└── class_diagram.png               # Diagrama de classes feito usando Mermaid`
+
+
+`├── tree_design.py                  # Implementação dos padrões de projeto e da estrutura da árvore`
+
+`├── tree_demo.py                    # Script de demonstração (monta a árvore e executa operações)`
+
+`├── README.md                       # Arquivo com as descrições e instruções do projeto`
+
+`└── class_diagram.png               # Diagrama de classes feito usando Mermaid`
 
 ## `tree_design.py`
 
