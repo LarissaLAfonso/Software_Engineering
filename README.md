@@ -23,7 +23,7 @@ Projeto acadêmico em Python que mostra como estruturar uma **árvore de decisã
 
 1. **Comunicar arquitetura**: mostrar como diferentes padrões podem ser combinados em um único domínio (árvore de decisão).
 2. **Separar preocupações**: cada padrão resolve um problema específico (composição, iteração, extensibilidade de operações, mudança de comportamento).
-3. **Facilitar apresentações**: por ser totalmente mockado, o código roda em qualquer ambiente com Python ≥ 3.10 e evidencia o fluxo via mensagens no console.
+3. **Facilitar apresentações**: por ser totalmente mockado, o código roda em qualquer ambiente com Python ≥ 3 e evidencia o fluxo via mensagens no console.
 
 ---
 
@@ -45,7 +45,7 @@ Cada classe imprime mensagens prefixadas (`[Composite]`, `[Iterator]`, `[Visitor
 ```
 ├── tree_design.py      # Todas as classes da árvore e dos padrões
 ├── tree_demo.py        # Script principal de demonstração
-├── class_diagram.png   # Diagrama UML (Composite + State + Visitor)
+├── class_diagram.png   # Diagrama Mermaid (Composite + State + Visitor)
 └── README.md           # Este guia
 ```
 
@@ -77,7 +77,7 @@ O script `main()` apenas orquestra essas etapas em sequência, o que permite usa
 ## Como Executar
 
 1. **Pré-requisitos**
-   - Python 3.10+ (nenhuma dependência externa).
+   - Python 3+ (nenhuma dependência externa).
 
 2. **Clonar ou baixar o repositório**
    ```bash
