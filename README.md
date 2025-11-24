@@ -17,11 +17,8 @@ O foco é mostrar, de forma clara, o uso dos seguintes padrões:
 
 
 `├── tree_design.py                  # Implementação dos padrões de projeto e da estrutura da árvore`
-
 `├── tree_demo.py                    # Script de demonstração (monta a árvore e executa operações)`
-
 `├── README.md                       # Arquivo com as descrições e instruções do projeto`
-
 `└── class_diagram.png               # Diagrama de classes feito usando Mermaid`
 
 ## `tree_design.py`
